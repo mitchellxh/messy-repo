@@ -1,0 +1,6 @@
+Customer_ID,Name,Email,Purchase_Date,Amount,Category
+1001,John Smith,john.smith@email.com,2023-01-10,299.99,Electronics
+1002,Jane Doe,jane.doe@gmail.com,2023-01-11,150.00,Books
+1003,Bob Wilson,bob.w@yahoo.com,2023-01-12,75.50,Home
+1004,Alice Johnson,alice.j@hotmail.com,2023-01-13,425.00,Electronics
+1005,Mike Brown,mike.brown@company.com,2023-01-14,199.99,Sports

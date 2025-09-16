@@ -1,0 +1,22 @@
+# Configuration Settings
+# This file contains various configuration parameters
+
+DATABASE_URL=localhost:5432
+API_KEY=your_api_key_here
+DEBUG_MODE=true
+
+# File paths (these might be wrong)
+DATA_PATH=/home/user/data/
+BACKUP_PATH=/backup/
+LOG_PATH=/var/log/app.log
+
+# Processing settings
+BATCH_SIZE=100
+TIMEOUT=30
+
+# Email settings (deprecated)
+SMTP_SERVER=smtp.company.com
+SMTP_PORT=587
+
+# Note: Some of these settings may be outdated
+# Check with system admin before using

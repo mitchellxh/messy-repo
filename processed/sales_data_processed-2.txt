@@ -1,0 +1,17 @@
+PROCESSED SALES DATA - VERSION 2
+=================================
+
+Summary Statistics:
+- Total Products: 3
+- Average Sales: 207.5
+- Best Performing Region: West
+- Date Range: 2023-01-15 to 2023-01-22
+
+Regional Breakdown:
+North: 2 sales, Total: 300
+South: 2 sales, Total: 320
+East: 2 sales, Total: 455
+West: 2 sales, Total: 580
+
+This is the second iteration of processed sales data.
+Changes from version 1: Added regional breakdown analysis.

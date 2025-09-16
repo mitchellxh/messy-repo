@@ -1,0 +1,18 @@
+Employee Analysis Report - Draft
+================================
+
+This report analyzes employee data from the HR system.
+
+PRELIMINARY FINDINGS:
+- Total employees: 5
+- Average age: 33 years  
+- Average salary: $66,400
+- Departments: Sales (2), Marketing (1), Engineering (2)
+
+SALARY BREAKDOWN:
+Engineering: Average $73,500
+Sales: Average $63,500
+Marketing: Average $58,000
+
+NOTE: This is a draft report. Numbers may not be final.
+See employee_analysis_final.txt for completed version.

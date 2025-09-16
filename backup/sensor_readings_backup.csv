@@ -1,0 +1,6 @@
+measurement_id,timestamp,temperature,humidity,pressure,notes
+1,2023-01-14T08:00:00,22.8,67,1014.1,normal
+2,2023-01-14T08:15:00,23.1,66,1014.0,normal  
+3,2023-01-14T08:30:00,23.4,65,1013.8,normal
+4,2023-01-14T08:45:00,23.7,64,1013.6,slight drop
+5,2023-01-14T09:00:00,24.0,63,1013.5,normal
