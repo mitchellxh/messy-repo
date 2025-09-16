@@ -1,0 +1,39 @@
+Project Notes - January 2023
+============================
+
+Current tasks:
+- Clean up data files
+- Organize notebooks  
+- Update analysis scripts
+- Fix broken file paths
+
+Issues to resolve:
+- Multiple versions of customer data
+- Inconsistent naming conventions
+- Missing documentation
+- Scattered files across directories
+
+Files that need attention:
+✓ sales_data.csv - looks good
+? customer_data_processed-v3.csv - check format  
+✗ old analysis notebooks - may be outdated
+✓ sensor data - recently updated
+
+Ideas for improvement:
+1. Create standard directory structure
+2. Implement file naming conventions
+3. Add proper documentation
+4. Set up automated testing
+5. Create data validation scripts
+
+Meeting notes from last week:
+- Team agreed on new organization structure
+- Need to migrate old files gradually
+- Keep backups of everything
+- Update all documentation
+
+Random thoughts:
+- Should we use a different tool for analysis?
+- Consider cloud storage for large datasets
+- Maybe implement version control for data files
+- Need better backup strategy

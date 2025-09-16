@@ -1,0 +1,9 @@
+Raw sales data dump from system
+==================================
+
+Product: Widget A | Sales: 150 | Date: 2023-01-15 | Region: North
+Product: Widget B | Sales: 200 | Date: 2023-01-16 | Region: South
+Product: Widget A | Sales: 175 | Date: 2023-01-17 | Region: East
+
+Note: This file contains unprocessed sales data extracted directly from the database.
+Some entries might be duplicated or contain formatting issues.

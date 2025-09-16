@@ -1,0 +1,14 @@
+CUSTOMER ANALYSIS REPORT
+========================
+
+Generated on: 2023-01-25
+Analyst: Data Team
+
+Raw data contains 5 customer records.
+Total revenue: $1,150.48
+
+Top customer: Alice Johnson ($425.00)
+Average purchase: $230.10
+
+NOTE: This report was generated from customer_data_raw.csv
+For updated analysis, see customer_report_v2.txt

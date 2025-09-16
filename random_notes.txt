@@ -1,0 +1,29 @@
+Random data for testing purposes
+=================================
+
+This file contains miscellaneous notes and random information
+that doesn't belong in any particular category.
+
+Data collection started: January 2023
+Last updated: Unknown
+
+Sample data points:
+- Temperature readings from office sensors
+- Humidity measurements  
+- Barometric pressure data
+
+Files to check:
+- sensor_data_jan15.csv (latest)
+- sensor_readings_backup.csv (older version)
+- weather_data_processed.txt (summary)
+
+Issues found:
+- Missing timestamps in some records
+- Duplicate measurements
+- Calibration drift in sensor #3
+
+TODO:
+[] Clean up sensor data
+[] Validate measurements
+[] Update documentation
+[] Create automated reports
